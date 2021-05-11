@@ -37,5 +37,3 @@ if (message.content.startsWith(prefix +"impostor" )){ //El comando
     
     　　ﾟ　　　.　　　. ,　　　　.　 .`)
     }
-
-    ///El comando debe ir al directorio Index.js///
