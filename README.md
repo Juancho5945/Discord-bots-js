@@ -1,9 +1,17 @@
-# Discord-bots-js
-Este es un Repositorio donde lleva a cabo hacer tu propio bot de discord desde cero
+### Discord Bot JS
 
+Howdy 👋 este es un repositorio basico de como hacer tu propio bot solo sigan las instrucciones
 
-En la carpeta de 'Comandos'todo agregado ahi debe ir al archivo index.js
+- En la carpeta de **Comandos** ahi se explica como se hace cada comando
 
-El TOKEN se consigue en el portal de discord developers el prefix ponlo como te guste si pones un prefix igual a otros bots  se mezclaran y deberas conseguir un comando de cambio de prefix para eso ponle un prefix original que no se compare a otros bots...
+- Su **Bot** debe al menos tener **Discord.js V12**
 
-Si hay problemas comentame en mi servidor o dejando un comentario por si tienes dudas
+- Este archivo no cuenta con base de datos
+
+- Los comandos los puedes buscar como se hacen, deben verificar errores antes de encender al bot
+
+- Este repositorio no incluye comandos tipo **Raid** mas que eso esta prohibido en los bots de discord ya que rompen el TOS y de paso Discord te advierte
+
+- Buena Suerte solo sigan los pasos :)
+
+-Repositorio hecho por Sunky
