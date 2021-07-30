@@ -14,4 +14,4 @@ Howdy 👋 este es un repositorio basico de como hacer tu propio bot solo sigan 
 
 - Buena Suerte solo sigan los pasos :)
 
--Repositorio hecho por Sunky
+- Repositorio hecho por Sunky
